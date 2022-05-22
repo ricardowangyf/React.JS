@@ -44,7 +44,7 @@ npm run start
 
 在浏览器中打开 localhost://8080 查看
 
-### 项目打包
+## 项目打包
 
 ```bash
 npm run build 
